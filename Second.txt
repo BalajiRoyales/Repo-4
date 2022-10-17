@@ -1,1 +1,2 @@
-Welcome to git 
+Welcome to git and it's importance 
+git is version contrl system.
